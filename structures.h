@@ -1,8 +1,3 @@
-#include <stdio.h>
-
-#include <stdlib.h>
-
-int z;
 
 typedef struct Proc{
 
