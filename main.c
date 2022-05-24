@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <fonctions.h>
+#include <structures.h>
 int z;
 
 int main(){
