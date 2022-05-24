@@ -1,0 +1,24 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+
+    File *f=init_file();
+
+    printf("Donner le nombre de processus: ");
+
+    scanf("%d",&z);
+
+    file_cree(f);
+
+    printf("\nPush_FIFO\n");
+
+    affiche(f);
+
+    printf("\nPush_SJF\n");
+
+    push_SJF(f);
+
+    return 0;
+
+}
