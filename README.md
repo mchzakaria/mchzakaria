@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Zakaria Machmach 
+- 👋 Hi, I’m Zakaria Machmach , I'm from Morocco 
 - 👀 I’m interested in field of computer science 
--  
 - 🌱 I’m currently learning Java script 
 - 📫 How to reach me
  
