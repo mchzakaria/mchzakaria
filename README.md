@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zakaria-machmach-094428225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakaria-machmach-094428225/" height="30" width="40" /></a>
-<a href="https://fb.com/zakariya.maxmax.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zakariya.maxmax.9" height="30" width="40" /></a>
-<a href="https://instagram.com/mch_zakaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mch_zakaria" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zakaria-machmach-094428225/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakaria-machmach-094428225/" height="30" width="40" /></a>
+<a href="https://fb.com/zakariya.maxmax.9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zakariya.maxmax.9" height="30" width="40" /></a>
+<a href="https://instagram.com/mch_zakaria" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mch_zakaria" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
