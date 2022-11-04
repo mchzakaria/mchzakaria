@@ -2,9 +2,9 @@
 
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 - 👀 I’m interested in field of computer science <br>
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning JavaScript
 <br>
-- 📫 How to reach me **zakariamachmach03@gmail.com**
+- 📫 How to reach me zakariamachmach03@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
