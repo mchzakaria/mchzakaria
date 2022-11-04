@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MACHMACH Zakaria </h1>
-<h3> Welcome to my github page </h3>
+
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-<h3> 👀 I’m interested in field of computer science </h3>
+- 👀 I’m interested in field of computer science 
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **zakariamachmach03@gmail.com**
