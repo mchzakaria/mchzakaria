@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 - 👀 I’m interested in field of computer science <br>
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Flutter**
 <br>
 - 📫 How to reach me zakariamachmach03@gmail.com
 
