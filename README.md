@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MACHMACH Zakaria</h1>
 <h3 align="center"> Junior Full Stack Developer </h3>
 
-- 🌱 I’m currently learning **JAVA ENTERPRISE EDITION (JEE)**
+- 🌱 I’m currently working with **MERN STACK**
 
 - 📫 How to reach me **zakariamachmach03@gmail.com**
 
