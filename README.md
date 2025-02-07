@@ -7,22 +7,22 @@
 
 - ⚡ Fun fact **Computer Scientists Don’t Work Alone**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/zakaria-machmach-094428225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakaria-machmach-094428225/" height="30" width="40" /></a>
 <a href="https://fb.com/zakariya.maxmax.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zakariya.maxmax.9" height="30" width="40" /></a>
 <a href="https://instagram.com/mch_zakaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mch_zakaria" height="30" width="40" /></a>
 </p>
 
 # 💻 Languages and Tools :
-<h2 align="center"> Programming Languages </h2>
+<h4 align="center"> Programming Languages </h4>
 <div align="center">
   
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
-<h2 align="center"> Web Development </h2>
+<h4 align="center"> Web Development </h4>
 <div align='center'>
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,14 +40,14 @@
   
 </div>
 
-<h2 align="center"> Mobile App Development  </h2>
+<h4 align="center"> Mobile App Development  </h4>
 <div align='center'>
   
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 </div>
 
-<h2 align="center"> Databases </h2>
+<h4 align="center"> Databases </h4>
 <div align='center'>
 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
@@ -56,7 +56,7 @@
   
 </div>
 
-<h2 align="center"> Desktop Application Development </h2>
+<h4 align="center"> Desktop Application Development </h4>
 <div align='center'>
   
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
@@ -66,7 +66,7 @@
 </div>
 
 
-<h2 align="center"> Tools </h2>
+<h4 align="center"> Tools </h4>
 <div align='center'>
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
