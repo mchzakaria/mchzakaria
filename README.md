@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MACHMACH Zakaria</h1>
-<h3 align="center">Student at the higher school of technology of Essaouira</h3>
+<h3 align="center"> Junior Full Stack Developer </h3>
 
 - 🌱 I’m currently learning **JAVA ENTERPRISE EDITION (JEE)**
 
